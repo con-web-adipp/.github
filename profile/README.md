@@ -1,4 +1,4 @@
-This is a little collection of plugins for [Griffeye Analyze DI Pro](https://www.griffeye.com/analyze-di/). 
+This is a collection of plugins for [Griffeye Analyze DI Pro](https://www.griffeye.com/analyze-di/). 
 
 To get started, have a look at the Tesseract4Analyze repository. Tesseract4Analyze is an Analyze DI Pro Plugin for OCR image analysis.
 
