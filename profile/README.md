@@ -1,12 +1,5 @@
-## Hi there 👋
+This is just a little collection of useful plugins for Griffeye Analyze DI Pro. 
 
-<!--
+To get started, have a look at the Tesseract4Analyze repository. Tesseract4Analyze is an OCR plugin for Analyze DI Pro.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+To dig deeper into the plugin-world, have a look at the AdippNet repository. AdippNet is a small .NET library to make the development of Analyze DI Pro plugins super fast and super easy.
